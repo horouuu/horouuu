@@ -1,3 +1,3 @@
-'ello there
-i make cool stuff when i feel like it
-you can reach me at `horou@coronne.io` :)
+'ello there \
+i make cool stuff when i feel like it \
+you can find my contacts at https://coronne.io/ :)
