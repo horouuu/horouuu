@@ -11,5 +11,5 @@ i also like homelabbing
 
 ---
 ## challenges 
-[iximiuz Labs](https://github.com/horouuu/iximiuz/)
-[PortSwigger](https://github.com/horouuu/portswigger)
+- [iximiuz Labs](https://github.com/horouuu/iximiuz/)
+- [PortSwigger](https://github.com/horouuu/portswigger)
