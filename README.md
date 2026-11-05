@@ -6,7 +6,7 @@ you can find my contacts at <a href="https://coronne.io/" target="_blank">coronn
 
 i do maths for games sometimes
 
-i also like homelabbing 
+i also like homelabbing - check out my [homelab notes](https://github.com/horouuu/homelab-notes/)
 
 
 ---
